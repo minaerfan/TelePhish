@@ -1,7 +1,7 @@
 
 # TelePhish
 
-TelePhish is a dataset of annotated Telegram messages curated for phishing detection research. This dataset is designed to support phishing detection in Telegram messages by capturing how phishing links are shared and propagated across different Telegram communities. It was developed as part of the following research paper:
+TelePhish is a dataset of annotated Telegram messages compiled for phishing detection research. This dataset is designed to support phishing detection in Telegram messages by capturing how phishing links are shared and propagated across different Telegram communities. It was developed as part of the following research paper:
 
 > **"Comparing Macro and Micro Approaches for Detecting Phishing Where It Spreads"**  
 > Accepted at the **PST 2025 Conference** (International Conference on Privacy, Security & Trust)
