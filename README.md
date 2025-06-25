@@ -15,7 +15,6 @@ Each row in the dataset represents a single Telegram message that contains at le
 
 ## Column Descriptions
 
-### Identifiers and Group Metadata
 | Column | Description |
 |--------|-------------|
 | `sample_ids` | Row index in the dataset |
@@ -25,10 +24,6 @@ Each row in the dataset represents a single Telegram message that contains at le
 | `user_id` | Unique sender ID |
 | `username` | Sender’s Telegram username (if present) |
 | `username_matches_language` | Whether the username matches the group language|
-
-### Features
-| Column | Description |
-|--------|-------------|
 | `message_time`, `date`, `time` | Full timestamp and its components |
 | `group_creation_date` | Estimated group creation date |
 | `group_age_days_at_message_time` | Age of the group at the message time |
