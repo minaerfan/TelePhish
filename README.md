@@ -3,9 +3,9 @@
 
 TelePhish is a dataset of annotated Telegram messages compiled for phishing detection research. This dataset is designed to support phishing detection in Telegram messages by capturing how phishing links are shared and propagated across different Telegram communities. It was developed as part of the following research paper:
 
-> **"Comparing Macro and Micro Approaches for Detecting Phishing Where It Spreads"**  
-> Accepted at the **PST 2025 Conference** (International Conference on Privacy, Security & Trust)
+> M. Erfan, G.-V. Jourdan, and P. Branco, “Comparing Macro and Micro Approaches for Detecting Phishing Where It Spreads,” in *2025 22nd Annual International Conference on Privacy, Security and Trust (PST)*, 2025.
 
+If you use this dataset, **please cite** the paper above.
 
 
 ## Dataset Overview
@@ -55,7 +55,12 @@ Each row in the dataset represents a single Telegram message that contains at le
 
 ## Research Context
 
-This dataset was used in our PST 2025 paper to evaluate the effectiveness of different modeling strategies for phishing detection in Telegram.
+This dataset was used in our PST 2025 paper [1] to evaluate the effectiveness of different modeling strategies for phishing detection in Telegram.
+
+
+## References
+
+[1] M. Erfan, G.-V. Jourdan, and P. Branco, “Comparing Macro and Micro Approaches for Detecting Phishing Where It Spreads,” in *2025 22nd Annual International Conference on Privacy, Security and Trust (PST)*, 2025. 
 
 
 ## Contact Information
