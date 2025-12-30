@@ -1,4 +1,4 @@
-# TelePhish – Source Code
+# Propagation-based Phishing Detection at Telegram – Source Code
 
 This directory contains the source code used for propagation-based phishing detection experiments.  
 The code is designed to work with the **TelePhish dataset**, which is stored separately due to its size.
