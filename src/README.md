@@ -20,8 +20,9 @@ To run the code in this directory, you must first download the dataset from the 
 1. Switch to the `main` branch of this repository.
 2. Download the file `TelePhish.zip`.
 3. Extract the ZIP file.
-4. Create a folder named `data`.
-5. Place the extracted dataset inside the `data` folder.
+4. Name the file telephish.csv
+5. Create a folder named `data`.
+6. Place the extracted dataset inside the `data` folder.
 
 The `data` folder must be located at the same level as `src`.
 
